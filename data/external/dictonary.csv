@@ -1,0 +1,8 @@
+variable,description,type,subtype
+total_bill,total da conta,quantitativo,contínuo
+tip,valor da gorjeta,quantitativo,contínuo
+sex,sexo do pagador,qualitativo,nominal
+smoker,há fumantes ?,qualitativo,nominal
+day,dia da semana,qualitativo,ordinal
+time,horário do dia,qualitativo,nominal
+size,tamanho do grupo,quantitativo,discreto
